@@ -1,14 +1,9 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/profileAnaLuz.jpg"
+imageAlt: "Ana Luz Profile Picture"
 ---
-
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
-
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
-
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+<b>Generalist in anything digital 👩‍💻</b><br><br>
+I studied Marketing and Communications and always thought I would end up working in a creative ad agency. But in my last semester I discovered <b>how with a bit of Tech and lots of Googling</b>, I could turn peoples <b>dreams and businesses into a reality.</b><br><br>
+For next 3 years I became a <b>self-taught remote WordPress freelancer</b>, offering websites and digital services to help people with their online presence. Doing SEO, eCommerces, blogs, mailing, etc. but I knew I could be doing more.<br><br>
+By 2022, curiosity led me to explore a bit of JavaScript. I found it so challenging that I was hooked immediately. <b>Career change into Tech? Challenge accepted!🙌</b> Studied on my own, signed up in a part-time web development 
+<a href="https://www.credential.net/7e084a2d-94f6-4c86-9ece-d92bbb732dff#gs.epumwp" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>bootcamp</u></a> and now I am ready to join a team and continue learning and helping people!<div>

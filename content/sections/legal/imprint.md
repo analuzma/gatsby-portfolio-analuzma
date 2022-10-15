@@ -4,12 +4,12 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
-YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
+ANA LUZ M.A.<br />
+HIDALGO 302<br />
+NAVOJOA<br />
+MEXICO
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+E-Mail Address: <u>HELLO@ANALUZMA.DEV</u>
 
 ---
 

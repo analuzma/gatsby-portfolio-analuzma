@@ -1,10 +1,10 @@
 {
-  "name": "Gatsby Starter For Portfolio Minimal",
-  "email": "example@mail.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+  "name": "Ana Luz M.A.",
+  "email": "hello@analuzma.dev",
+  "description": " Thanks for making it all the way down here! If you're looking for a developer to add to your team, I'd love to hear from you!",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "src": "../../images/analuzicon.png",
+    "alt": "Ana Luz Icon"
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
